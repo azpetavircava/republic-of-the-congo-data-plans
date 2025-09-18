@@ -62,3 +62,10 @@ layout: default
 3. **支付魔咒**：街头充值卡只收现金，新版的5万中非法郎纸币验钞灯下有隐形犀牛图案
 
 　　最后分享个冷知识：雨季在刚果河畔，把手机举过头的姿势并非祈祷——那是我们在捕捉MTN基站的残余信号。现在你准备好迎接这场数字冒险了吗？
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Republic Of The Congo SIM 卡购买与激活指南](https://faciylike.github.io/republic-of-the-congo-sim-guides)
